@@ -1,2 +1,2 @@
-# Pol-tica-de-Privacidade
+# Política de Privacidade
 Repositório de política de privacidade

@@ -1,14 +1,14 @@
 # Política de Privacidade
 
--Essa página é utilizada para informar os usuários das políticas de privacidade dos referente aos aplicativos usados pelos usuários.
+- Essa página é utilizada para informar os usuários das políticas de privacidade dos referente aos aplicativos usados pelos usuários.
 
 ## Coleta e uso de dados
 
--Não são coletados dados dos usuários
+- Não são coletados dados dos usuários
 
 ## ADS
 
--Não são utilizados ADS
+- Não são utilizados ADS
 
 ## Utilização
 

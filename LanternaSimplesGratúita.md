@@ -1,6 +1,6 @@
 # Política de Privacidade
 
-- Essa página é utilizada para informar os usuários das políticas de privacidade dos referente aos aplicativos usados pelos usuários.
+- Essa página é utilizada para informar os usuários das políticas de privacidade dos aplicativos.
 
 ## Coleta e uso de dados
 
